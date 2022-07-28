@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ponmile Adebisi</h1>
 <h3 align="center">A passionate aspiring Software Engineer</h3>
-<img align="right" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwjkmN_Q4Zv5AhX0YPEDHZVlASEQMygOegUIARC4Ag..i&docid=eJwGc00cw2HxkM&w=800&h=600&q=coding%20pictures%20gif&ved=2ahUKEwjkmN_Q4Zv5AhX0YPEDHZVlASEQMygOegUIARC4Ag" alt="gif"></img>
+<img align="right" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwjkmN_Q4Zv5AhX0YPEDHZVlASEQMygOegUIARC4Ag..i&docid=eJwGc00cw2HxkM&w=800&h=600&q=coding%20pictures%20gif&ved=2ahUKEwjkmN_Q4Zv5AhX0YPEDHZVlASEQMygOegUIARC4Ag" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pjmiles&label=Profile%20views&color=0e75b6&style=flat" alt="pjmiles" /> </p>
 
